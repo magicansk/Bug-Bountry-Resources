@@ -1,5 +1,5 @@
 ## Table of Contents
-- [Bug-Bountry-Resources ](#bug-bountry-resources)
+- [Bug Bountry Resources ](#bug-bountry-resources)
 - [Lists](#lists)
 - [Helpful Resources](#helpful-resources)
 - [CTF writeups](#ctf-writeups)
@@ -7,7 +7,7 @@
 - [Helpful Resources](#helpful-resources)
 
 
-# Bug-Bountry-Resources  
+# Bug Bountry Resources  
 
 The most exhaustive list of known Bug Bounty Programs, welcome anyone to fork and [contribute](https://github.com/magicansk/Bug-Bountry-Resources-CTF-Writeups/blob/master/README.md) the resources! 
 
