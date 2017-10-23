@@ -1,4 +1,6 @@
 language: c 
-sudo: enabled 
-install: 
-- if [ $TRAVIS_OS_NAME = linux ]; then sudo apt-get install foo; else brew install bar; fi
+language: java 
+language: node_js
+node_js:
+- 6  # recommended version
+- 8
