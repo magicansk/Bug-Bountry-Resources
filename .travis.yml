@@ -1,0 +1,4 @@
+language: c 
+sudo: enabled 
+install: 
+- if [ $TRAVIS_OS_NAME = linux ]; then sudo apt-get install foo; else brew install bar; fi
